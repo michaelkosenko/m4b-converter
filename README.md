@@ -24,6 +24,11 @@ own dll, then place it in this directory.
 1. Install packages: `sudo apt-get install python2.7 ffmpeg libavcodec-extra-52`
 2. Download mp4v2 then [compile](http://code.google.com/p/mp4v2/wiki/BuildSource) and install.
 
+### Mac Os X
+
+1. Check python installation (`python --version`)
+2. Install `ffmpeg` and `mp4v2` using [brew](http://brew.sh/)
+
 ## Usage
 
 There are two ways to use this script:
